@@ -33,14 +33,32 @@ Q8: Highest selling category?
 Firstly we have to study the dataset then the next step is data-cleaning, data processing, etc.
 
 Data-cleaning:
-In this step, we will check all columns of data with the help of filters and remove all incomplete, corrupted, and duplicate data within a dataset.
+In this step, we have to check all columns of data with the help of filters and remove all incomplete, corrupted, and duplicate data within a dataset.
 
 Data-processing:
 Data Processing is a method of manipulation of data. It means the conversion of raw data into meaningful and machine-readable content.
 
-In this, we will create a relationship between age and gender by Excel formula and create a new column that is the age group similarly, we extract the month from the date column and create a new monthly column.
+In this, we have to create a relationship between age and gender by Excel formula and create a new column that is the age group similarly, we extract the month from the date column and create a new monthly column.
 
 Data-visualization:
-In this, we will solve all questions with the help of the pivot table tool and build an amazing dashboard with different-different chart formats.
+In this, we have to solve all questions with the help of the pivot table tool and build an amazing dashboard with different-different chart formats.
+
+# Result:
+
+1. Women are more likely to buy compared to men.
+ 
+2. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states.
+  
+3. adult age group(30-49 yrs) is max contributing.
+
+4. Amazon, Flipkart, and Myntra channels are max contributing.  
+
+# Final Conclusion to improve Vrinda store sales:
+
+Target Women customers of the age group(30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
+
+
+
 
 
