@@ -40,4 +40,7 @@ Data Processing is a method of manipulation of data. It means the conversion of 
 
 In this, we will create a relationship between age and gender by Excel formula and create a new column that is the age group similarly, we extract the month from the date column and create a new monthly column.
 
+Data-visualization:
+In this, we will solve all questions with the help of the pivot table tool and build an amazing dashboard with different-different chart formats.
+
 
