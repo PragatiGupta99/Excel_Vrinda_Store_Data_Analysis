@@ -30,9 +30,14 @@ Q8: Highest selling category?
 # Procedure: 
 
 
-Firstly we have to study the dataset then the next step is data-cleaning, data preprocessing, etc.
+Firstly we have to study the dataset then the next step is data-cleaning, data processing, etc.
 
 Data-cleaning:
-In this step, we will check all columns of data and remove all incomplete, corrupted, and duplicate data within a dataset.
+In this step, we will check all columns of data with the help of filters and remove all incomplete, corrupted, and duplicate data within a dataset.
+
+Data-processing:
+Data Processing is a method of manipulation of data. It means the conversion of raw data into meaningful and machine-readable content.
+
+In this, we will create a relationship between age and gender by Excel formula and create a new column that is the age group similarly, we extract the month from the date column and create a new monthly column.
 
 
