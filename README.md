@@ -30,7 +30,9 @@ Q8: Highest selling category?
 # Procedure: 
 
 Firstly we have to study the dataset then the next step is data-cleaning, data preprocessing, etc.
-Data-cleaning: 
+
+Data-cleaning:
+
 In this step, we will check all columns of data and remove all incomplete, corrupted, and duplicate data within a dataset.
 
 
